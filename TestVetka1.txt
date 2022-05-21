@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+tetris
+=======
+Testirovka
+>>>>>>> Stashed changes
+Привет
