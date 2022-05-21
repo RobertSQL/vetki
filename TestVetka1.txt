@@ -1,0 +1,10 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+tetris
+=======
+Testirovka
+>>>>>>> Stashed changes
+
+brom
+>>>>>>> Stashed changes
